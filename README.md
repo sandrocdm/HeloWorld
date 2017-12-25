@@ -1,5 +1,7 @@
 # HeloWorld
-Teste do GH
-Olá
 
-Estamos aqui testando do branch do GJ
+Estamos aqui testando do branch do GH
+
+Vamos ver o efeito desta letra aumentada:
+
+# Sandro Moraes
